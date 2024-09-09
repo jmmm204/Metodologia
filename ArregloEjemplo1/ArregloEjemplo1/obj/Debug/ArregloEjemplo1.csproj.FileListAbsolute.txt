@@ -1,0 +1,8 @@
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\bin\Debug\ArregloEjemplo1.exe.config
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\bin\Debug\ArregloEjemplo1.exe
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\bin\Debug\ArregloEjemplo1.pdb
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\obj\Debug\ArregloEjemplo1.csproj.AssemblyReference.cache
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\obj\Debug\ArregloEjemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\obj\Debug\ArregloEjemplo1.csproj.CoreCompileInputs.cache
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\obj\Debug\ArregloEjemplo1.exe
+C:\Users\labc201\source\repos\ArregloEjemplo1\ArregloEjemplo1\obj\Debug\ArregloEjemplo1.pdb
