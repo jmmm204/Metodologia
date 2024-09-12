@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\bin\Debug\EjercicioDado.exe.config
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\bin\Debug\EjercicioDado.exe
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\bin\Debug\EjercicioDado.pdb
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\obj\Debug\EjercicioDado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\obj\Debug\EjercicioDado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\obj\Debug\EjercicioDado.exe
+C:\Users\Usuario\source\repos\EjercicioDado\EjercicioDado\obj\Debug\EjercicioDado.pdb
